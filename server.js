@@ -1,5 +1,5 @@
 import express from "express";
-import routes from "./routes/postsRoutes.js";
+import routes from "./src/routes/postsRoutes.js";
 
 const port = 3000;
 
